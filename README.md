@@ -5,5 +5,6 @@ Maximizes adventures, farms volcano, and puts on nightcap in [Kingdom of Loathin
 Install by running the following in KoLmafia's graphical CLI:
 
 <pre>
+svn checkout https://github.com/AllenTuring/KoL-MineVolcano/trunk
 svn checkout https://github.com/pchen1104/Day-Farm/branches/Release
 </pre>
